@@ -1,0 +1,7 @@
+Master branch change
+Develop branch code added
+<<<<<<< HEAD
+f1 added
+=======
+new change f2
+>>>>>>> feature2
